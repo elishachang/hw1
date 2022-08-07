@@ -1,0 +1,30 @@
+【 使用 HTML、CSS 開發一個網站 】
+
+CodePen連結:https://codepen.io/trqpdkcc-the-animator/pen/qBoqGZp
+
+
+
+
+
+
+
+最終作業圖片連結：
+
+【 使用 HTML、CSS 開發一個網站 】
+Banner:https://i.imgur.com/cfNLHjf.png
+
+Bg:https://i.imgur.com/1ZKf2dL.gif
+
+fbIcon:https://i.imgur.com/o2rOg9X.png
+
+TwitterIcon:https://i.imgur.com/uDQTPJB.png
+
+Rwd:https://i.imgur.com/IcFNiJE.png
+
+Logo:https://i.imgur.com/vRNeVY2.png
+
+jQuery:https://i.imgur.com/zenQ6K3.png
+
+Html:https://i.imgur.com/oJInwvn.png
+
+Footerlogo:https://i.imgur.com/lgiJo07.png
